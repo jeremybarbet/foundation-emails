@@ -56,11 +56,11 @@ $global-width: 580px !default;
 
 /// Width of the container on small screens.
 /// @type Length
-$global-width-small: 95% !default;
+$global-width-small: 100% !default;
 
 /// Gutter for grid elements.
 /// @type length
-$global-gutter: 16px !default;
+$global-gutter: 40px !default;
 
 /// Gutter for grid elements on small screens.
 /// @type length
@@ -68,7 +68,7 @@ $global-gutter-small: $global-gutter !default;
 
 /// Body background color.
 /// @type Length
-$body-background: $light-gray !default;
+$body-background: #ffffff !default;
 
 /// Color for the container background
 /// @type Color
